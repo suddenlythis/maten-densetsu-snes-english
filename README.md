@@ -120,7 +120,7 @@ AI was used to assist with the code and translation.
 
 ## What is in English
 
-- All dialogue and narration, in every hero's route, with each character's voice kept.
+- All dialogue and narration, in every hero's route.
 - Battle text: turns, attacks, damage, status effects, ESP, items, victory and defeat.
 - The names of the heroes, heroines, ally monsters, enemies, weapons, items, ESP powers
   and OOPArts, and the place names on the save screen.
