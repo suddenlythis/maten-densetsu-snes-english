@@ -1,0 +1,9 @@
+Legend of Maten (Super Famicom) - English translation v1.0 - checksums
+
+Your ROM before patching: Maten Densetsu - Senritsu no Ooparts (Japan), no header, 3,145,728 bytes
+CRC32  0F02330F
+SHA-1  64d3f337e06fa33eb012c98169426a92e4058f1f
+
+After patching with MatenDensetsu-EN-v1.0.bps, 4,194,304 bytes
+CRC32  5CFC6DA1
+SHA-1  abb502dcd1a1656c46f3cffbbf6c502ff08d8366
