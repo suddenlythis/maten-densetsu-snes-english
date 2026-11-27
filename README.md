@@ -14,7 +14,7 @@ joined you.
  · [How to install](INSTALL.md) · [Checksums](SHA1SUMS.txt)
 
 <p align="center">
-  <img src="screenshots/01-title.png" width="640" alt="Title screen with the new English logo 'LEGEND OF MATEN', the subtitle 'Out-of-Place Artifacts of Terror', START, the copyright line and 'ENGLISH TRANSLATION V1.0' below it.">
+  <img src="screenshots/01-title.png" width="480" alt="Title screen with the new English logo 'LEGEND OF MATEN', the subtitle 'Out-of-Place Artifacts of Terror', START, the copyright line and 'ENGLISH TRANSLATION V1.0' below it.">
 </p>
 
 ## Progress
